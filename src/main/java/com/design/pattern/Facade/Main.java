@@ -4,7 +4,7 @@ package com.design.pattern.Facade;
  * @Author: kk
  * @Date: 2019-10-30 09:44
  * @Description: 外观模式
- * 用户要访问多个子系统，用一个统一到接口访问。
+ * 用户要访问多个子系统，用一个统一d的接口访问。
  * 用一个万能遥控器【外观类】，控制家用电器【子系统】。
  */
 public class Main {
